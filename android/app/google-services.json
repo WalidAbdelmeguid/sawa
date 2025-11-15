@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "551323905494",
+    "project_id": "sawafulldatabase",
+    "storage_bucket": "sawafulldatabase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551323905494:android:43ae0405db15786303c877",
+        "android_client_info": {
+          "package_name": "com.example.sawa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSy6uDAdUnUXljwOQqdfH-KkxOmY72FkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551323905494:android:021017c74481b89003c877",
+        "android_client_info": {
+          "package_name": "com.sawa.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSy6uDAdUnUXljwOQqdfH-KkxOmY72FkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
